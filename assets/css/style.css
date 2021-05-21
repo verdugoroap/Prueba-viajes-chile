@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo{
+    font-size: 20px;
+}
+
+#navbarcolor{
+    background-color: #279CA9;
+}
+
+.contenedor1{
+    color: white;
+
+}
